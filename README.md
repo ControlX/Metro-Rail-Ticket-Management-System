@@ -1,7 +1,7 @@
 # MetroRailTicketingSystem
 
 - Assignment prepared for ThoughtWorks(Hyderabad): Extreme Programming For Developers session.
-- This code supports fare calculation for Single Line only. Multiple line fare resolution requires some algorithms which I'm not aware of at the moment will update it as soon as I get to know.
+- This code supports fare calculation for Single Line only. Multiple line fare resolution requires some algorithms which I'm not aware of at the moment will update it as soon as I get more info on it.
 
 # Problem Statement :
 
