@@ -1,15 +1,26 @@
-"# MetroRailTicketingSystem" 
+# MetroRailTicketingSystem
 
 - Assignment prepared for ThoughtWorks(Hyderabad): Extreme Programming For Developers session.
 - This code supports fare calculation for Single Line only. Multiple line fare resolution requires some algorithms which I'm not aware of at the moment will update it as soon as I get to know.
 
-"# Problem Statement :"
+# Problem Statement :
 
 - Transportation in a metro city is a major issue for the Government of Telangana, and Hyderabad is not an exception to this rule. Keeping this in view, the Hyderabad Metro Rail (HMR) is being developed as one of the largest modern transport systems in the world based upon the PPP model. There are a lot of systems in HMR, one of them is Ticketing System. A passenger needs a ticket to travel by the metro rail. Build a system which can print the ticket, given both source and destination. 
 - Following are the pricing rules to consider:
-- Upto the 3 stations journey, fare is   10.00/- ( for all Lines ) ₹ After the 3 stations, for every extra station,  2.50/- for Line I₹ 2.00/- for Line II₹ 3.00/- for Line III₹ There is no extra cost associated with changing lines
-- Expected Input format: Enter Source Station Code: A4 Enter Destination Station Code: B12
-- Expected Output format: ************************************************************* Hyderabad Metro Rail Source: Kukatpally Distance ( stations): 18 Destination: Charminar Cost: 46.50/₹ *************************************************************
+Upto the 3 stations journey, fare is   10.00/- ( for all Lines ) ₹ After the 3 stations, for every extra station,  2.50/- for Line I₹ 2.00/- for Line II₹ 3.00/- for Line III₹ There is no extra cost associated with changing lines
+
+- Expected Input format: 
+Enter Source Station Code: A4 
+Enter Destination Station Code: B12
+
+- Expected Output format: 
+************************************************************* 
+Hyderabad Metro Rail 
+Source: Kukatpally 
+Distance ( stations): 18 
+Destination: Charminar 
+Cost: 46.50/₹ 
+*************************************************************
 
 - Following are the details of the Lines / Stations: 
 
